@@ -1,0 +1,1126 @@
+1506326510109	geckodriver	INFO	Listening on 127.0.0.1:12671
+1506326512156	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506326512431	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1506326512912	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1506326516006	Marionette	INFO	Listening on port 12677
+1506326516050	Marionette	INFO	Listening on port 12677
+1506326516357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506563465578	geckodriver	INFO	Listening on 127.0.0.1:26550
+1506563467500	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506563467801	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1506563468332	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1506563471831	Marionette	INFO	Listening on port 26558
+1506563471855	Marionette	INFO	Listening on port 26558
+1506563472730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506563496918	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1359: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 394: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1506567434715	geckodriver	INFO	Listening on 127.0.0.1:27117
+1506567436493	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506567437396	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1506567438287	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1506567444360	Marionette	INFO	Listening on port 27123
+1506567444450	Marionette	INFO	Listening on port 27123
+1506567444861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506667384928	geckodriver	INFO	Listening on 127.0.0.1:36852
+1506667386826	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506667387915	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1506667389088	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1506667393891	Marionette	INFO	Listening on port 36858
+1506667393966	Marionette	INFO	Listening on port 36858
+1506667394323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506747053964	geckodriver	INFO	Listening on 127.0.0.1:49158
+1506747055729	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506747056541	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1506747056994	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1506747060438	Marionette	INFO	Listening on port 49164
+1506747060479	Marionette	INFO	Listening on port 49164
+1506747060961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507684217556	geckodriver	INFO	Listening on 127.0.0.1:1648
+1507684219428	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507684220141	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1507684220586	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1507684223608	Marionette	INFO	Listening on port 1654
+1507684223637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507684224443	Marionette	INFO	Listening on port 1654
+1507686105988	geckodriver	INFO	Listening on 127.0.0.1:2287
+1507686108032	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507686108329	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1507686108955	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1507686112520	Marionette	INFO	Listening on port 2294
+1507686112757	Marionette	INFO	Listening on port 2294
+1507686113379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507700199738	geckodriver	INFO	Listening on 127.0.0.1:38186
+1507700201907	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507700203276	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1507700203920	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1507700208321	Marionette	INFO	Listening on port 38193
+1507700208489	Marionette	INFO	Listening on port 38193
+1507700209435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507700565141	geckodriver	INFO	Listening on 127.0.0.1:38376
+1507700567203	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507700567549	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1507700568033	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1507700570952	Marionette	INFO	Listening on port 38382
+1507700570985	Marionette	INFO	Listening on port 38382
+1507700571407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507701502557	geckodriver	INFO	Listening on 127.0.0.1:38637
+1507701504554	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507701504826	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1507701505288	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1507701507906	Marionette	INFO	Listening on port 38643
+1507701507963	Marionette	INFO	Listening on port 38643
+1507701508261	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507702197332	geckodriver	INFO	Listening on 127.0.0.1:38881
+1507702199335	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507702199654	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1507702200088	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1507702202682	Marionette	INFO	Listening on port 38887
+1507702202701	Marionette	INFO	Listening on port 38887
+1507702203039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507702396135	geckodriver	INFO	Listening on 127.0.0.1:38990
+1507702398167	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507702398415	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1507702398815	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1507702401568	Marionette	INFO	Listening on port 38996
+1507702401628	Marionette	INFO	Listening on port 38996
+1507702401872	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507702818298	geckodriver	INFO	Listening on 127.0.0.1:39122
+1507702820345	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507702820608	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1507702821119	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1507702823677	Marionette	INFO	Listening on port 39128
+1507702823716	Marionette	INFO	Listening on port 39128
+1507702824058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507702964390	geckodriver	INFO	Listening on 127.0.0.1:39226
+1507702966443	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507702966695	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1507702967074	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1507702969835	Marionette	INFO	Listening on port 39232
+1507702969842	Marionette	INFO	Listening on port 39232
+1507702970137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507703436942	geckodriver	INFO	Listening on 127.0.0.1:39307
+1507703439006	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507703439732	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1507703440210	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1507703443073	Marionette	INFO	Listening on port 39313
+1507703443115	Marionette	INFO	Listening on port 39313
+1507703443198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507703863266	geckodriver	INFO	Listening on 127.0.0.1:39415
+1507703865111	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507703866083	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1507703866626	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1507703869771	Marionette	INFO	Listening on port 39422
+1507703869852	Marionette	INFO	Listening on port 39422
+1507703870435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507704316259	geckodriver	INFO	Listening on 127.0.0.1:39548
+1507704318318	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507704318657	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1507704319048	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1507704321615	Marionette	INFO	Listening on port 39554
+1507704321684	Marionette	INFO	Listening on port 39554
+1507704322053	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507771646248	geckodriver	INFO	Listening on 127.0.0.1:1162
+1507771648264	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507771648904	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1507771649347	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1507771652654	Marionette	INFO	Listening on port 1168
+1507771652688	Marionette	INFO	Listening on port 1168
+1507771653523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507860947343	geckodriver	INFO	Listening on 127.0.0.1:17055
+1507860949186	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507860949956	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1507860950476	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1507860954159	Marionette	INFO	Listening on port 17061
+1507860954383	Marionette	INFO	Listening on port 17061
+1507860954510	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508116675794	geckodriver	INFO	Listening on 127.0.0.1:58129
+1508116677725	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508116678649	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1508116679440	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1508116683485	Marionette	INFO	Listening on port 58135
+1508116683546	Marionette	INFO	Listening on port 58135
+1508116683565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508119405494	geckodriver	INFO	Listening on 127.0.0.1:58941
+1508119407388	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508119408265	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1508119408734	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1508119411979	Marionette	INFO	Listening on port 58947
+1508119412013	Marionette	INFO	Listening on port 58947
+1508119412636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508121752469	geckodriver	INFO	Listening on 127.0.0.1:59577
+1508121754515	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508121754804	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1508121755195	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1508121758237	Marionette	INFO	Listening on port 59583
+1508121758269	Marionette	INFO	Listening on port 59583
+1508121758649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508131241794	geckodriver	INFO	Listening on 127.0.0.1:62337
+1508131243697	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508131244664	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1508131245057	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1508131248752	Marionette	INFO	Listening on port 62345
+1508131248954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508131249847	Marionette	INFO	Listening on port 62345
+1508202127153	geckodriver	INFO	Listening on 127.0.0.1:61651
+1508202129199	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508202129966	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1508202130421	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1508202133451	Marionette	INFO	Listening on port 61658
+1508202133501	Marionette	INFO	Listening on port 61658
+1508202134501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508292319132	geckodriver	INFO	Listening on 127.0.0.1:1658
+1508292320989	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508292327440	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1508292328035	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1508292332083	Marionette	INFO	Listening on port 1668
+1508292332161	Marionette	INFO	Listening on port 1668
+1508292332986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508401977962	geckodriver	INFO	Listening on 127.0.0.1:23754
+1508401979902	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508401981199	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1508401981730	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1508401985591	Marionette	INFO	Listening on port 23762
+1508401985718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508401985791	Marionette	INFO	Listening on port 23762
+1508463861626	geckodriver	INFO	Listening on 127.0.0.1:36920
+1508463863568	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508463865363	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1508463865973	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1508463871418	Marionette	INFO	Listening on port 36926
+1508463871496	Marionette	INFO	Listening on port 36926
+1508463871579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508722804589	geckodriver	INFO	Listening on 127.0.0.1:64089
+1508722806508	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508722808698	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1508722809127	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1508722813068	Marionette	INFO	Listening on port 64096
+1508722813092	Marionette	INFO	Listening on port 64096
+1508722814008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508723643652	geckodriver	INFO	Listening on 127.0.0.1:64451
+1508723645525	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508723647842	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1508723648345	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1508723651794	Marionette	INFO	Listening on port 64457
+1508723651824	Marionette	INFO	Listening on port 64457
+1508723651916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508725773104	geckodriver	INFO	Listening on 127.0.0.1:64943
+1508725774961	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508725776974	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1508725777356	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1508725780313	Marionette	INFO	Listening on port 64949
+1508725780339	Marionette	INFO	Listening on port 64949
+1508725780798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508807039921	geckodriver	INFO	Listening on 127.0.0.1:12167
+1508807042011	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508807044098	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1508807044726	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1508807048801	Marionette	INFO	Listening on port 12173
+1508807048859	Marionette	INFO	Listening on port 12173
+1508807049505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508910012262	geckodriver	INFO	Listening on 127.0.0.1:30412
+1508910014216	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508910015836	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1508910016415	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1508910020207	Marionette	INFO	Listening on port 30419
+1508910020236	Marionette	INFO	Listening on port 30419
+1508910020503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508910460157	geckodriver	INFO	Listening on 127.0.0.1:30700
+1508910462219	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508910463481	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1508910463923	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1508910467049	Marionette	INFO	Listening on port 30706
+1508910467059	Marionette	INFO	Listening on port 30706
+1508910467562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508980526723	geckodriver	INFO	Listening on 127.0.0.1:44218
+1508980528729	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1508980530408	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1508980530822	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1508980533723	Marionette	INFO	Listening on port 44224
+1508980533757	Marionette	INFO	Listening on port 44224
+1508980534004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508980553656	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1509066204631	geckodriver	INFO	Listening on 127.0.0.1:60512
+1509066206457	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509066208737	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1509066209445	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1509066213578	Marionette	INFO	Listening on port 60519
+1509066213648	Marionette	INFO	Listening on port 60519
+1509066214228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509083975729	geckodriver	INFO	Listening on 127.0.0.1:1273
+1509083977554	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509083979557	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1509083980217	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1509083984245	Marionette	INFO	Listening on port 1281
+1509083984305	Marionette	INFO	Listening on port 1281
+1509083985234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509084004071	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1509333502862	geckodriver	INFO	Listening on 127.0.0.1:3125
+1509333504725	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509333506546	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1509333507079	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1509333510986	Marionette	INFO	Listening on port 3131
+1509333511024	Marionette	INFO	Listening on port 3131
+1509333512129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509348292314	geckodriver	INFO	Listening on 127.0.0.1:1872
+1509348294465	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509348296796	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1509348298300	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1509348304882	Marionette	INFO	Listening on port 1878
+1509348304901	Marionette	INFO	Listening on port 1878
+1509348305084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1509349999252	geckodriver	INFO	Listening on 127.0.0.1:2800
+1509350001297	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509350002835	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1509350003337	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1509350006357	Marionette	INFO	Listening on port 2806
+1509350006391	Marionette	INFO	Listening on port 2806
+1509350006631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509501725056	geckodriver	INFO	Listening on 127.0.0.1:45847
+1509501726926	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509501729169	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1509501729928	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1509501734402	Marionette	INFO	Listening on port 45854
+1509501734436	Marionette	INFO	Listening on port 45854
+1509501734907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509516205492	geckodriver	INFO	Listening on 127.0.0.1:50765
+1509516207169	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509516209645	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1509516210848	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1509516216258	Marionette	INFO	Listening on port 50771
+1509516216386	Marionette	INFO	Listening on port 50771
+1509516216618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509586472110	geckodriver	INFO	Listening on 127.0.0.1:13610
+1509586474160	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509586476193	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1509586477474	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1509586482640	Marionette	INFO	Listening on port 13617
+1509586482712	Marionette	INFO	Listening on port 13617
+1509586483630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509672428806	geckodriver	INFO	Listening on 127.0.0.1:1802
+1509672430881	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509672432892	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1509672433371	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1509672437341	Marionette	INFO	Listening on port 1808
+1509672437516	Marionette	INFO	Listening on port 1808
+1509672438398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509956803613	geckodriver	INFO	Listening on 127.0.0.1:58678
+1509956805494	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509956807554	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1509956808296	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1509956813088	Marionette	INFO	Listening on port 58684
+1509956813124	Marionette	INFO	Listening on port 58684
+1509956813320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509958916390	geckodriver	INFO	Listening on 127.0.0.1:59208
+1509958918046	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509958920206	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1509958920995	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1509958925613	Marionette	INFO	Listening on port 59214
+1509958925653	Marionette	INFO	Listening on port 59214
+1509958925909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509963777122	geckodriver	INFO	Listening on 127.0.0.1:60097
+1509963778704	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1509963780839	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1509963781489	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1509963785368	Marionette	INFO	Listening on port 60103
+1509963785519	Marionette	INFO	Listening on port 60103
+1509963786069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510016367997	geckodriver	INFO	Listening on 127.0.0.1:1805
+1510016369884	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510016371820	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1510016372252	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1510016375976	Marionette	INFO	Listening on port 1812
+1510016376004	Marionette	INFO	Listening on port 1812
+1510016376252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510126006405	geckodriver	INFO	Listening on 127.0.0.1:26723
+1510126008443	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510126010913	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:656 < startup()@resource://gre/modules/AddonManager.jsm:816 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file://///%3F/C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1596: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1510126011734	Marionette	INFO	Enabled via --marionette
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2465: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 3137: TypeError: AddonManagerInternal._getProviderByName(...) is undefined
+1510126015792	Marionette	INFO	Listening on port 26729
+1510126015821	Marionette	INFO	Listening on port 26729
+1510126016350	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510187439554	geckodriver	INFO	Listening on 127.0.0.1:39200
+1510187441458	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510187443243	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510187444092	Marionette	INFO	Enabled via --marionette
+[Child 12036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510187449921	Marionette	INFO	Listening on port 39207
+1510187450896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510187450964	Marionette	DEBUG	Register listener.js for window 6442450945
+1510187451008	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510187451020	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510187451020	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510187451021	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450945"
+[Child 14096] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14096] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510187452397	Marionette	DEBUG	Register listener.js for window 8589934593
+1510187452451	Marionette	DEBUG	Check readyState "uninitialized for "about:blank"
+1510187452483	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E4%B8%87%E6%96%B0%E6%9E%97.html"
+1510187452520	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E4%B8%87%E6%96%B0%E6%9E%97.html"
+1510187453498	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E4%B8%87%E6%96%B0%E6%9E%97.html"
+1510187453505	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E4%B8%87%E6%96%B0%E6%9E%97.html"
+1510187453505	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E4%B8%87%E6%96%B0%E6%9E%97.html"
+1510187453521	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E4%B9%94%E6%AD%A3%E6%B6%9B.html"
+1510187453580	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E4%B9%94%E6%AD%A3%E6%B6%9B.html"
+1510187454279	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E4%B9%94%E6%AD%A3%E6%B6%9B.html"
+1510187454286	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E4%B9%94%E6%AD%A3%E6%B6%9B.html"
+1510187454287	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E4%B9%94%E6%AD%A3%E6%B6%9B.html"
+1510187454309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E4%BB%BB%E5%BF%97%E5%AE%8F.html"
+1510187454383	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E4%BB%BB%E5%BF%97%E5%AE%8F.html"
+1510187455077	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E4%BB%BB%E5%BF%97%E5%AE%8F.html"
+1510187455084	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E4%BB%BB%E5%BF%97%E5%AE%8F.html"
+1510187455084	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E4%BB%BB%E5%BF%97%E5%AE%8F.html"
+1510187455105	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%86%AF%E7%A7%80%E8%8B%B1.html"
+1510187455241	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%86%AF%E7%A7%80%E8%8B%B1.html"
+1510187455961	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%86%AF%E7%A7%80%E8%8B%B1.html"
+1510187455966	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%86%AF%E7%A7%80%E8%8B%B1.html"
+1510187455966	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%86%AF%E7%A7%80%E8%8B%B1.html"
+1510187455987	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%88%98%E5%96%9C%E6%98%A5.html"
+1510187456133	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%88%98%E5%96%9C%E6%98%A5.html"
+1510187456827	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%88%98%E5%96%9C%E6%98%A5.html"
+1510187456834	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%88%98%E5%96%9C%E6%98%A5.html"
+1510187456834	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%88%98%E5%96%9C%E6%98%A5.html"
+1510187456864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%88%98%E8%A5%BF%E5%BD%AC.html"
+1510187456961	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%88%98%E8%A5%BF%E5%BD%AC.html"
+1510187457688	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%88%98%E8%A5%BF%E5%BD%AC.html"
+1510187457694	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%88%98%E8%A5%BF%E5%BD%AC.html"
+1510187457694	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%88%98%E8%A5%BF%E5%BD%AC.html"
+1510187457716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%8D%A2%E6%A1%82%E7%8E%B2.html"
+1510187457792	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%8D%A2%E6%A1%82%E7%8E%B2.html"
+1510187458480	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%8D%A2%E6%A1%82%E7%8E%B2.html"
+1510187458486	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%8D%A2%E6%A1%82%E7%8E%B2.html"
+1510187458486	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%8D%A2%E6%A1%82%E7%8E%B2.html"
+1510187458510	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%8F%B8%E5%BF%97%E6%95%8F.html"
+1510187458594	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%8F%B8%E5%BF%97%E6%95%8F.html"
+1510187459325	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%8F%B8%E5%BF%97%E6%95%8F.html"
+1510187459331	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%8F%B8%E5%BF%97%E6%95%8F.html"
+1510187459332	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%8F%B8%E5%BF%97%E6%95%8F.html"
+1510187459349	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%90%B4%E8%8A%B3%E7%8F%8D.html"
+1510187459413	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%90%B4%E8%8A%B3%E7%8F%8D.html"
+1510187460112	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%90%B4%E8%8A%B3%E7%8F%8D.html"
+1510187460120	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%90%B4%E8%8A%B3%E7%8F%8D.html"
+1510187460120	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%90%B4%E8%8A%B3%E7%8F%8D.html"
+1510187460144	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%91%A8%E6%85%A7%E6%85%8E.html"
+1510187460311	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%91%A8%E6%85%A7%E6%85%8E.html"
+1510187461058	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%91%A8%E6%85%A7%E6%85%8E.html"
+1510187461064	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%91%A8%E6%85%A7%E6%85%8E.html"
+1510187461064	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%91%A8%E6%85%A7%E6%85%8E.html"
+1510187461087	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%AE%AB%E4%B8%96%E6%96%87.html"
+1510187461218	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%AE%AB%E4%B8%96%E6%96%87.html"
+1510187461934	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%AE%AB%E4%B8%96%E6%96%87.html"
+1510187461940	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%AE%AB%E4%B8%96%E6%96%87.html"
+1510187461941	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%AE%AB%E4%B8%96%E6%96%87.html"
+1510187461961	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%BE%90%E6%95%AC.html"
+1510187462040	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%BE%90%E6%95%AC.html"
+1510187462746	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%BE%90%E6%95%AC.html"
+1510187462753	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%BE%90%E6%95%AC.html"
+1510187462753	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E5%BE%90%E6%95%AC.html"
+1510187462776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E6%9D%8E%E9%91%AB.html"
+1510187462923	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E6%9D%8E%E9%91%AB.html"
+1510187463652	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E6%9D%8E%E9%91%AB.html"
+1510187463658	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E6%9D%8E%E9%91%AB.html"
+1510187463659	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E6%9D%8E%E9%91%AB.html"
+1510187463679	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E6%B1%AA%E5%BA%AD%E6%B6%9B.html"
+1510187463759	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E6%B1%AA%E5%BA%AD%E6%B6%9B.html"
+1510187464507	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E6%B1%AA%E5%BA%AD%E6%B6%9B.html"
+1510187464514	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E6%B1%AA%E5%BA%AD%E6%B6%9B.html"
+1510187464514	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E6%B1%AA%E5%BA%AD%E6%B6%9B.html"
+1510187464537	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E6%BD%98%E6%9C%89%E7%90%B4.html"
+1510187464664	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E6%BD%98%E6%9C%89%E7%90%B4.html"
+1510187465413	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E6%BD%98%E6%9C%89%E7%90%B4.html"
+1510187465419	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E6%BD%98%E6%9C%89%E7%90%B4.html"
+1510187465420	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E6%BD%98%E6%9C%89%E7%90%B4.html"
+1510187465439	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E5%85%B6%E5%8D%8E.html"
+1510187465582	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E5%85%B6%E5%8D%8E.html"
+1510187466281	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E5%85%B6%E5%8D%8E.html"
+1510187466287	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E5%85%B6%E5%8D%8E.html"
+1510187466287	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E5%85%B6%E5%8D%8E.html"
+1510187466309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E6%B7%91%E7%8F%8D.html"
+1510187466389	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E6%B7%91%E7%8F%8D.html"
+1510187467103	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E6%B7%91%E7%8F%8D.html"
+1510187467110	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E6%B7%91%E7%8F%8D.html"
+1510187467111	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E6%B7%91%E7%8F%8D.html"
+1510187467130	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E7%A7%80%E6%B8%85.html"
+1510187467195	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E7%A7%80%E6%B8%85.html"
+1510187467848	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E7%A7%80%E6%B8%85.html"
+1510187467855	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E7%A7%80%E6%B8%85.html"
+1510187467855	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E7%A7%80%E6%B8%85.html"
+1510187467885	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E7%A7%80%E8%8B%B1.html"
+1510187467971	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E7%A7%80%E8%8B%B1.html"
+1510187468693	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E7%A7%80%E8%8B%B1.html"
+1510187468699	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E7%A7%80%E8%8B%B1.html"
+1510187468699	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%8E%8B%E7%A7%80%E8%8B%B1.html"
+1510187468721	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%BD%97%E5%BC%80%E5%85%88.html"
+1510187468859	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%BD%97%E5%BC%80%E5%85%88.html"
+1510187469516	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%BD%97%E5%BC%80%E5%85%88.html"
+1510187469522	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%BD%97%E5%BC%80%E5%85%88.html"
+1510187469523	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%BD%97%E5%BC%80%E5%85%88.html"
+1510187469553	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%BD%97%E7%A2%8E%E6%99%BA.html"
+1510187469630	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%BD%97%E7%A2%8E%E6%99%BA.html"
+1510187470369	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%BD%97%E7%A2%8E%E6%99%BA.html"
+1510187470377	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%BD%97%E7%A2%8E%E6%99%BA.html"
+1510187470377	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E7%BD%97%E7%A2%8E%E6%99%BA.html"
+1510187470406	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E8%B0%A2%E8%80%BF%E6%83%A0.html"
+1510187470494	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E8%B0%A2%E8%80%BF%E6%83%A0.html"
+1510187471190	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E8%B0%A2%E8%80%BF%E6%83%A0.html"
+1510187471197	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E8%B0%A2%E8%80%BF%E6%83%A0.html"
+1510187471197	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E8%B0%A2%E8%80%BF%E6%83%A0.html"
+1510187471221	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E8%B4%BE%E9%9B%85%E8%90%8D.html"
+1510187471368	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E8%B4%BE%E9%9B%85%E8%90%8D.html"
+1510187472069	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E8%B4%BE%E9%9B%85%E8%90%8D.html"
+1510187472075	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E8%B4%BE%E9%9B%85%E8%90%8D.html"
+1510187472075	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E8%B4%BE%E9%9B%85%E8%90%8D.html"
+1510187472096	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E8%B5%B5%E7%A7%80%E8%8B%B1.html"
+1510187472181	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E8%B5%B5%E7%A7%80%E8%8B%B1.html"
+1510187472898	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E8%B5%B5%E7%A7%80%E8%8B%B1.html"
+1510187472904	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E8%B5%B5%E7%A7%80%E8%8B%B1.html"
+1510187472904	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E8%B5%B5%E7%A7%80%E8%8B%B1.html"
+1510187472931	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%83%91%E9%9C%9E.html"
+1510187473074	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%83%91%E9%9C%9E.html"
+1510187473845	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%83%91%E9%9C%9E.html"
+1510187473851	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%83%91%E9%9C%9E.html"
+1510187473852	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%83%91%E9%9C%9E.html"
+1510187473872	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%83%AD%E4%B8%BD%E8%90%8D.html"
+1510187474002	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%83%AD%E4%B8%BD%E8%90%8D.html"
+1510187474698	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%83%AD%E4%B8%BD%E8%90%8D.html"
+1510187474705	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%83%AD%E4%B8%BD%E8%90%8D.html"
+1510187474705	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%83%AD%E4%B8%BD%E8%90%8D.html"
+1510187474726	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%83%AD%E7%82%B3%E8%B6%B3.html"
+1510187474803	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%83%AD%E7%82%B3%E8%B6%B3.html"
+1510187475639	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%83%AD%E7%82%B3%E8%B6%B3.html"
+1510187475645	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%83%AD%E7%82%B3%E8%B6%B3.html"
+1510187475646	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%83%AD%E7%82%B3%E8%B6%B3.html"
+1510187475670	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%BB%84%E7%81%AB%E9%9D%92.html"
+1510187475804	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%BB%84%E7%81%AB%E9%9D%92.html"
+1510187476493	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%BB%84%E7%81%AB%E9%9D%92.html"
+1510187476499	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%BB%84%E7%81%AB%E9%9D%92.html"
+1510187476499	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%BB%84%E7%81%AB%E9%9D%92.html"
+1510187476519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%BE%9A%E4%BA%AC%E6%B2%85.html"
+1510187476596	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%BE%9A%E4%BA%AC%E6%B2%85.html"
+1510187477412	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%BE%9A%E4%BA%AC%E6%B2%85.html"
+1510187477421	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%BE%9A%E4%BA%AC%E6%B2%85.html"
+1510187477422	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%BE%9A%E4%BA%AC%E6%B2%85.html"
+1510187477449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%BE%9A%E5%BA%86%E8%8A%B3.html"
+1510187477538	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171107/yocaly2html/%E9%BE%9A%E5%BA%86%E8%8A%B3.html"
+1510189658743	geckodriver	INFO	Listening on 127.0.0.1:39799
+1510189660537	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510189662940	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510189664168	Marionette	INFO	Enabled via --marionette
+[Child 9912] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9912] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510189670255	Marionette	INFO	Listening on port 39805
+1510189670516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510189670614	Marionette	DEBUG	Register listener.js for window 4294967297
+1510189670647	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510189670659	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510189670659	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510189670660	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Parent 11288] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9448] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9448] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510189672000	Marionette	DEBUG	Register listener.js for window 8589934593
+1510189672055	Marionette	DEBUG	Check readyState "uninitialized for "about:blank"
+1510189672087	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E4%BB%BB%E7%A7%80%E8%8B%B1.html"
+1510189672280	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E4%BB%BB%E7%A7%80%E8%8B%B1.html"
+1510189673171	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E4%BB%BB%E7%A7%80%E8%8B%B1.html"
+1510189673177	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E4%BB%BB%E7%A7%80%E8%8B%B1.html"
+1510189673177	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E4%BB%BB%E7%A7%80%E8%8B%B1.html"
+1510189673197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E4%BB%BB%E9%93%81%E6%88%90.html"
+1510189673268	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E4%BB%BB%E9%93%81%E6%88%90.html"
+1510189674069	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E4%BB%BB%E9%93%81%E6%88%90.html"
+1510189674084	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E4%BB%BB%E9%93%81%E6%88%90.html"
+1510189674084	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E4%BB%BB%E9%93%81%E6%88%90.html"
+1510189674109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E4%BF%8E%E5%A8%A5%E5%A6%AE.html"
+1510189674210	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E4%BF%8E%E5%A8%A5%E5%A6%AE.html"
+1510189675104	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E4%BF%8E%E5%A8%A5%E5%A6%AE.html"
+1510189675110	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E4%BF%8E%E5%A8%A5%E5%A6%AE.html"
+1510189675110	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E4%BF%8E%E5%A8%A5%E5%A6%AE.html"
+1510189675129	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%86%AF%E7%BE%8E%E8%8B%B1.html"
+1510189675203	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%86%AF%E7%BE%8E%E8%8B%B1.html"
+1510189675977	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%86%AF%E7%BE%8E%E8%8B%B1.html"
+1510189675983	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%86%AF%E7%BE%8E%E8%8B%B1.html"
+1510189675983	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%86%AF%E7%BE%8E%E8%8B%B1.html"
+1510189676005	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%88%98%E4%BC%9A%E7%8F%8D.html"
+1510189676091	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%88%98%E4%BC%9A%E7%8F%8D.html"
+1510189676832	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%88%98%E4%BC%9A%E7%8F%8D.html"
+1510189676838	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%88%98%E4%BC%9A%E7%8F%8D.html"
+1510189676838	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%88%98%E4%BC%9A%E7%8F%8D.html"
+1510189676860	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%88%98%E5%BD%B1.html"
+1510189676991	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%88%98%E5%BD%B1.html"
+1510189677794	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%88%98%E5%BD%B1.html"
+1510189677800	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%88%98%E5%BD%B1.html"
+1510189677800	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%88%98%E5%BD%B1.html"
+1510189677820	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%A7%9C%E4%BD%A9%E5%A4%8D.html"
+1510189677903	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%A7%9C%E4%BD%A9%E5%A4%8D.html"
+1510189678606	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%A7%9C%E4%BD%A9%E5%A4%8D.html"
+1510189678613	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%A7%9C%E4%BD%A9%E5%A4%8D.html"
+1510189678613	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%A7%9C%E4%BD%A9%E5%A4%8D.html"
+1510189678632	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%A7%9C%E6%9C%88%E5%A8%A5.html"
+1510189678711	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%A7%9C%E6%9C%88%E5%A8%A5.html"
+1510189679421	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%A7%9C%E6%9C%88%E5%A8%A5.html"
+1510189679427	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%A7%9C%E6%9C%88%E5%A8%A5.html"
+1510189679427	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%A7%9C%E6%9C%88%E5%A8%A5.html"
+1510189679450	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BA%9E%E6%A1%82%E5%90%9B.html"
+1510189679540	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BA%9E%E6%A1%82%E5%90%9B.html"
+1510189680260	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BA%9E%E6%A1%82%E5%90%9B.html"
+1510189680266	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BA%9E%E6%A1%82%E5%90%9B.html"
+1510189680266	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BA%9E%E6%A1%82%E5%90%9B.html"
+1510189680287	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E5%9B%BD%E6%9D%B0.html"
+1510189680429	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E5%9B%BD%E6%9D%B0.html"
+1510189681158	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E5%9B%BD%E6%9D%B0.html"
+1510189681165	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E5%9B%BD%E6%9D%B0.html"
+1510189681165	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E5%9B%BD%E6%9D%B0.html"
+1510189681185	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E6%A0%91%E8%8B%B1.html"
+1510189681269	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E6%A0%91%E8%8B%B1.html"
+1510189681946	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E6%A0%91%E8%8B%B1.html"
+1510189681952	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E6%A0%91%E8%8B%B1.html"
+1510189681953	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E6%A0%91%E8%8B%B1.html"
+1510189681970	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E6%AC%A3.html"
+1510189682091	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E6%AC%A3.html"
+1510189682769	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E6%AC%A3.html"
+1510189682775	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E6%AC%A3.html"
+1510189682775	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E6%AC%A3.html"
+1510189682797	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E7%A7%80%E8%8A%B1.html"
+1510189682871	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E7%A7%80%E8%8A%B1.html"
+1510189683591	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E7%A7%80%E8%8A%B1.html"
+1510189683597	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E7%A7%80%E8%8A%B1.html"
+1510189683597	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BC%A0%E7%A7%80%E8%8A%B1.html"
+1510189683621	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BE%90%E5%AD%A6%E5%86%9B.html"
+1510189683693	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BE%90%E5%AD%A6%E5%86%9B.html"
+1510189684400	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BE%90%E5%AD%A6%E5%86%9B.html"
+1510189684407	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BE%90%E5%AD%A6%E5%86%9B.html"
+1510189684407	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E5%BE%90%E5%AD%A6%E5%86%9B.html"
+1510189684425	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%83%A0%E7%B4%A0%E8%90%8D.html"
+1510189684541	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%83%A0%E7%B4%A0%E8%90%8D.html"
+1510189685226	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%83%A0%E7%B4%A0%E8%90%8D.html"
+1510189685233	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%83%A0%E7%B4%A0%E8%90%8D.html"
+1510189685233	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%83%A0%E7%B4%A0%E8%90%8D.html"
+1510189685255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%96%B9%E7%87%95%E7%8F%8D.html"
+1510189685401	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%96%B9%E7%87%95%E7%8F%8D.html"
+1510189686081	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%96%B9%E7%87%95%E7%8F%8D.html"
+1510189686087	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%96%B9%E7%87%95%E7%8F%8D.html"
+1510189686088	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%96%B9%E7%87%95%E7%8F%8D.html"
+1510189686124	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%96%BD%E5%BB%BA%E5%BF%A0.html"
+1510189686207	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%96%BD%E5%BB%BA%E5%BF%A0.html"
+1510189686925	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%96%BD%E5%BB%BA%E5%BF%A0.html"
+1510189686932	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%96%BD%E5%BB%BA%E5%BF%A0.html"
+1510189686932	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%96%BD%E5%BB%BA%E5%BF%A0.html"
+1510189686950	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E4%B9%A6%E8%93%89.html"
+1510189687015	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E4%B9%A6%E8%93%89.html"
+1510189687650	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E4%B9%A6%E8%93%89.html"
+1510189687655	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E4%B9%A6%E8%93%89.html"
+1510189687655	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E4%B9%A6%E8%93%89.html"
+1510189687674	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E4%BA%AB%E5%85%B0.html"
+1510189687752	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E4%BA%AB%E5%85%B0.html"
+1510189688450	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E4%BA%AB%E5%85%B0.html"
+1510189688456	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E4%BA%AB%E5%85%B0.html"
+1510189688456	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E4%BA%AB%E5%85%B0.html"
+1510189688476	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E5%AE%9D%E4%BA%91.html"
+1510189688598	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E5%AE%9D%E4%BA%91.html"
+1510189689284	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E5%AE%9D%E4%BA%91.html"
+1510189689291	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E5%AE%9D%E4%BA%91.html"
+1510189689291	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E5%AE%9D%E4%BA%91.html"
+1510189689327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E5%BB%BA%E5%8D%8E.html"
+1510189689460	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E5%BB%BA%E5%8D%8E.html"
+1510189690241	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E5%BB%BA%E5%8D%8E.html"
+1510189690247	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E5%BB%BA%E5%8D%8E.html"
+1510189690248	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E5%BB%BA%E5%8D%8E.html"
+1510189690271	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E5%BE%81%E7%AB%A0.html"
+1510189690352	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E5%BE%81%E7%AB%A0.html"
+1510189691092	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E5%BE%81%E7%AB%A0.html"
+1510189691098	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E5%BE%81%E7%AB%A0.html"
+1510189691098	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E5%BE%81%E7%AB%A0.html"
+1510189691121	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E7%B4%A0%E7%8F%8D.html"
+1510189691197	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E7%B4%A0%E7%8F%8D.html"
+1510189691898	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E7%B4%A0%E7%8F%8D.html"
+1510189691904	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E7%B4%A0%E7%8F%8D.html"
+1510189691904	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%9D%8E%E7%B4%A0%E7%8F%8D.html"
+1510189691929	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%B1%A4%E5%BF%A0%E8%BF%90.html"
+1510189692067	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%B1%A4%E5%BF%A0%E8%BF%90.html"
+1510189692788	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%B1%A4%E5%BF%A0%E8%BF%90.html"
+1510189692794	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%B1%A4%E5%BF%A0%E8%BF%90.html"
+1510189692794	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E6%B1%A4%E5%BF%A0%E8%BF%90.html"
+1510189692815	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E7%8E%8B%E6%B7%91%E5%85%B0.html"
+1510189692898	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E7%8E%8B%E6%B7%91%E5%85%B0.html"
+1510189693574	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E7%8E%8B%E6%B7%91%E5%85%B0.html"
+1510189693580	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E7%8E%8B%E6%B7%91%E5%85%B0.html"
+1510189693581	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E7%8E%8B%E6%B7%91%E5%85%B0.html"
+1510189693600	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E7%8E%8B%E7%B4%A0%E8%8A%B3.html"
+1510189693677	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E7%8E%8B%E7%B4%A0%E8%8A%B3.html"
+1510189694388	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E7%8E%8B%E7%B4%A0%E8%8A%B3.html"
+1510189694394	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E7%8E%8B%E7%B4%A0%E8%8A%B3.html"
+1510189694395	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E7%8E%8B%E7%B4%A0%E8%8A%B3.html"
+1510189694416	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E7%94%B0%E6%B3%B0.html"
+1510189694492	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E7%94%B0%E6%B3%B0.html"
+1510189695355	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E7%94%B0%E6%B3%B0.html"
+1510189695362	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E7%94%B0%E6%B3%B0.html"
+1510189695362	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E7%94%B0%E6%B3%B0.html"
+1510189695384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%83%A1%E8%8F%8A.html"
+1510189695460	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%83%A1%E8%8F%8A.html"
+1510189696143	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%83%A1%E8%8F%8A.html"
+1510189696152	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%83%A1%E8%8F%8A.html"
+1510189696152	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%83%A1%E8%8F%8A.html"
+1510189696177	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%8B%8F%E7%A7%80%E6%B2%BB.html"
+1510189696313	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%8B%8F%E7%A7%80%E6%B2%BB.html"
+1510189696980	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%8B%8F%E7%A7%80%E6%B2%BB.html"
+1510189696986	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%8B%8F%E7%A7%80%E6%B2%BB.html"
+1510189696987	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%8B%8F%E7%A7%80%E6%B2%BB.html"
+1510189697006	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%B4%B9%E8%8E%B9.html"
+1510189697079	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%B4%B9%E8%8E%B9.html"
+1510189697785	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%B4%B9%E8%8E%B9.html"
+1510189697791	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%B4%B9%E8%8E%B9.html"
+1510189697792	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%B4%B9%E8%8E%B9.html"
+1510189697815	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%B5%B5%E6%B0%B8%E7%A7%8B.html"
+1510189697892	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%B5%B5%E6%B0%B8%E7%A7%8B.html"
+1510189698629	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%B5%B5%E6%B0%B8%E7%A7%8B.html"
+1510189698636	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%B5%B5%E6%B0%B8%E7%A7%8B.html"
+1510189698636	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E8%B5%B5%E6%B0%B8%E7%A7%8B.html"
+1510189698659	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%82%A2%E6%AD%A5%E8%8D%A3.html"
+1510189698741	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%82%A2%E6%AD%A5%E8%8D%A3.html"
+1510189699546	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%82%A2%E6%AD%A5%E8%8D%A3.html"
+1510189699552	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%82%A2%E6%AD%A5%E8%8D%A3.html"
+1510189699552	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%82%A2%E6%AD%A5%E8%8D%A3.html"
+1510189699571	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%82%A2%E6%B0%B8%E7%90%B4.html"
+1510189699684	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%82%A2%E6%B0%B8%E7%90%B4.html"
+1510189700332	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%82%A2%E6%B0%B8%E7%90%B4.html"
+1510189700339	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%82%A2%E6%B0%B8%E7%90%B4.html"
+1510189700339	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%82%A2%E6%B0%B8%E7%90%B4.html"
+1510189700364	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%82%B5%E6%8C%AF%E5%A3%B0.html"
+1510189700501	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%82%B5%E6%8C%AF%E5%A3%B0.html"
+1510189701237	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%82%B5%E6%8C%AF%E5%A3%B0.html"
+1510189701243	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%82%B5%E6%8C%AF%E5%A3%B0.html"
+1510189701243	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%82%B5%E6%8C%AF%E5%A3%B0.html"
+1510189701263	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%99%88%E5%9B%BD%E9%94%8B.html"
+1510189701342	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%99%88%E5%9B%BD%E9%94%8B.html"
+1510189702058	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%99%88%E5%9B%BD%E9%94%8B.html"
+1510189702064	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%99%88%E5%9B%BD%E9%94%8B.html"
+1510189702064	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%99%88%E5%9B%BD%E9%94%8B.html"
+1510189702083	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%99%88%E7%8E%89%E5%8D%8E.html"
+1510189702182	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%99%88%E7%8E%89%E5%8D%8E.html"
+1510189702859	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%99%88%E7%8E%89%E5%8D%8E.html"
+1510189702867	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%99%88%E7%8E%89%E5%8D%8E.html"
+1510189702867	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%99%88%E7%8E%89%E5%8D%8E.html"
+1510189702888	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%AB%98%E6%B7%91%E5%85%B0.html"
+1510189703014	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%AB%98%E6%B7%91%E5%85%B0.html"
+1510189703691	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%AB%98%E6%B7%91%E5%85%B0.html"
+1510189703697	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%AB%98%E6%B7%91%E5%85%B0.html"
+1510189703697	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%AB%98%E6%B7%91%E5%85%B0.html"
+1510189703723	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%AD%8F%E6%B0%B8%E6%B3%89.html"
+1510189703802	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%AD%8F%E6%B0%B8%E6%B3%89.html"
+1510189704510	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%AD%8F%E6%B0%B8%E6%B3%89.html"
+1510189704516	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%AD%8F%E6%B0%B8%E6%B3%89.html"
+1510189704516	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%AD%8F%E6%B0%B8%E6%B3%89.html"
+1510189704538	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%BB%84%E5%B9%BF%E7%81%BF.html"
+1510189704616	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/pdf-xml-git/yocaly_download/20171108/yocaly2html/%E9%BB%84%E5%B9%BF%E7%81%BF.html"
+1510534890300	geckodriver	INFO	Listening on 127.0.0.1:60252
+1510534892095	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510534894520	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510534895277	Marionette	INFO	Enabled via --marionette
+[12516] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[12516] WARNING: Unable to create pipe named "18932.1.376888755\1107659320" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[12340] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[12340] WARNING: Unable to create pipe named "18932.13.190885197\121622238" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[17144] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[17144] WARNING: Unable to create pipe named "18932.20.476349758\1025614282" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+1510534998345	Marionette	INFO	Listening on port 60258
+Unable to read VR Path Registry from C:\Users\huilcao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+Unable to read VR Path Registry from C:\Users\huilcao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 19116] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510535018910	geckodriver	INFO	Listening on 127.0.0.1:60413
+1510535020936	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510535022748	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510535023601	Marionette	INFO	Enabled via --marionette
+[18696] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[18696] WARNING: Unable to create pipe named "17808.1.2092323291\745264690" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[17516] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[17516] WARNING: Unable to create pipe named "17808.13.1370973643\381447946" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+[19408] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[19408] WARNING: Unable to create pipe named "17808.20.966924093\1850511109" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\huilcao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1510535426300	Marionette	INFO	Listening on port 60419
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+Unable to read VR Path Registry from C:\Users\huilcao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 18512] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510535220520	Marionette	INFO	Enabled via --marionette
+[15444] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[15444] WARNING: Unable to create pipe named "18776.1.1113038608\1692251796" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[19332] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[19332] WARNING: Unable to create pipe named "18776.13.785428906\1196276818" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[13020] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[13020] WARNING: Unable to create pipe named "18776.20.481479576\145903046" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\huilcao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1510535425985	Marionette	INFO	Listening on port 60744
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+PIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510535309859	Marionette	INFO	Enabled via --marionette
+[18496] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[18496] WARNING: Unable to create pipe named "19252.1.462650547\1695206466" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[3192] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[3192] WARNING: Unable to create pipe named "19252.13.2130913540\1866468970" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[20528] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[20528] WARNING: Unable to create pipe named "19252.20.239411765\2138847696" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+1510535425408	Marionette	INFO	Listening on port 60954
+1510535426409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510535463123	geckodriver	INFO	Listening on 127.0.0.1:61535
+1510535465160	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510535466856	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510535467595	Marionette	INFO	Enabled via --marionette
+[20176] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[20176] WARNING: Unable to create pipe named "20580.1.499884343\839675282" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+[17020] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[17020] WARNING: Unable to create pipe named "20580.13.1493686387\702297193" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[18568] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[18568] WARNING: Unable to create pipe named "20580.20.1721383153\721523757" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\huilcao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1510537778566	geckodriver	INFO	Listening on 127.0.0.1:1522
+1510537780515	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510537782901	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510537784019	Marionette	INFO	Enabled via --marionette
+[5880] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[5880] WARNING: Unable to create pipe named "2860.1.354576393\914834789" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+[8224] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[8224] WARNING: Unable to create pipe named "2860.13.1816010352\190957568" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[8324] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[8324] WARNING: Unable to create pipe named "2860.20.1654162094\331377447" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+1510537810668	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1510537831326	Marionette	INFO	Listening on port 1528
+1510537832319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510538878903	geckodriver	INFO	Listening on 127.0.0.1:2054
+1510538880942	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510538882587	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510538883248	Marionette	INFO	Enabled via --marionette
+[6768] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[6768] WARNING: Unable to create pipe named "5204.1.1024182135\2071918032" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[8216] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[8216] WARNING: Unable to create pipe named "5204.13.1912513970\328072495" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+[5912] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[5912] WARNING: Unable to create pipe named "5204.20.2068924997\1088269689" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+1510538911300	geckodriver	INFO	Listening on 127.0.0.1:2116
+1510538913331	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510538914985	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510538915660	Marionette	INFO	Enabled via --marionette
+[3908] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[3908] WARNING: Unable to create pipe named "5452.1.2027568318\976584569" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[9012] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[9012] WARNING: Unable to create pipe named "5452.13.1318519818\1941626536" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[2704] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[2704] WARNING: Unable to create pipe named "5452.20.1201483363\1079270659" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\huilcao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1510539282084	Marionette	INFO	Listening on port 2122
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1510539684941	geckodriver	INFO	Listening on 127.0.0.1:3355
+1510539686995	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510539688777	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510539689470	Marionette	INFO	Enabled via --marionette
+[1624] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[1624] WARNING: Unable to create pipe named "5612.1.328004910\2015332794" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+1510540169197	geckodriver	INFO	Listening on 127.0.0.1:4254
+1510540171256	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510540172978	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510540173605	Marionette	INFO	Enabled via --marionette
+[5592] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[5592] WARNING: Unable to create pipe named "8856.1.1028942214\1908329677" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+[6136] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[6136] WARNING: Unable to create pipe named "8856.13.553395274\846943430" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[5576] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[5576] WARNING: Unable to create pipe named "8856.20.174182644\809811778" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+1510540225161	geckodriver	INFO	Listening on 127.0.0.1:4361
+1510540227203	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510540228861	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510540229493	Marionette	INFO	Enabled via --marionette
+[8808] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[8808] WARNING: Unable to create pipe named "7716.1.1716975827\159554913" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[7260] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[7260] WARNING: Unable to create pipe named "7716.13.1583124369\1148641969" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[7296] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[7296] WARNING: Unable to create pipe named "7716.20.1806452791\1325333477" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+1510540243637	Marionette	INFO	Listening on port 4368
+Unable to read VR Path Registry from C:\Users\huilcao\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\huilcao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5568] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1510541479011	geckodriver	INFO	geckodriver 0.19.1
+1510541479030	geckodriver	INFO	Listening on 127.0.0.1:6335
+1510541481148	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\huilcao\\AppData\\Local\\Temp\\rust_mozprofile.UxOfM3wgA6b3"
+1510541482866	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510541483667	Marionette	INFO	Enabled via --marionette
+[8104] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[8104] WARNING: Unable to create pipe named "4704.1.149216838\2100050143" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[5812] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[5812] WARNING: Unable to create pipe named "4704.13.446070784\1953890742" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[7384] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[7384] WARNING: Unable to create pipe named "4704.20.1639755628\1403358435" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+1510541499697	Marionette	INFO	Listening on port 6343
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\huilcao\AppData\Local\openvr\openvrpaths.vrpath
+1510541870409	geckodriver	INFO	geckodriver 0.19.1
+1510541870436	geckodriver	INFO	Listening on 127.0.0.1:6583
+1510541872311	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\huilcao\\AppData\\Local\\Temp\\rust_mozprofile.njhCZyrUnrNK"
+1510541874044	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510541874812	Marionette	INFO	Enabled via --marionette
+[7196] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[7196] WARNING: Unable to create pipe named "8796.1.1649481730\1127608778" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+[9044] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[9044] WARNING: Unable to create pipe named "8796.13.1192043689\1028215243" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[6936] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[6936] WARNING: Unable to create pipe named "8796.20.1513637121\2045983776" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+1510541993680	Marionette	INFO	Listening on port 6589
+Unable to read VR Path Registry from C:\Users\huilcao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8148] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\huilcao\AppData\Local\openvr\openvrpaths.vrpath
+1510542394539	geckodriver	INFO	geckodriver 0.19.1
+1510542394555	geckodriver	INFO	Listening on 127.0.0.1:6909
+1510542396590	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\huilcao\\AppData\\Local\\Temp\\rust_mozprofile.6OEZ5Xb3EZod"
+1510542398288	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1510542398953	Marionette	INFO	Enabled via --marionette
+[3044] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[3044] WARNING: Unable to create pipe named "8488.1.545761220\174682865" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[5204] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[5204] WARNING: Unable to create pipe named "8488.13.748414354\1180803854" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+[8304] WARNING: failed to create pipe: 0: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 221
+[8304] WARNING: Unable to create pipe named "8488.20.138540475\121898334" in client mode.: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 59
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF8,name=???) Closed channel: cannot send/recv
+
+1510542425684	Marionette	INFO	Listening on port 6915
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\huilcao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4056] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\huilcao\AppData\Local\openvr\openvrpaths.vrpath

@@ -1,0 +1,28 @@
+初始化代码环境(lepu_download/yocaly_download/run_result_file)
+
+
+yocaly zip下载、解压缩（判断是否有文件、文件下载是否可解压缩）
+
+yocaly文件重命名、生成当天===id_name_dict文件
+
+yocaly-xml获取r点，得到===yocaly_r_dict
+
+lepu-zip下载（按日期下载会多下载，按id下载会下载不完整）
+lepu-zip解压缩
+lepu-xml下载
+生成lepu-pdf文件（并把生成的文件复制到lepu_download文件夹下)
+lepu-xml复制到sftp当前日期下的文件夹，并修改文件名id-name
+lepu-xml获取r点，得到===lepu_r_dict
+lepu/yocaly r点错检漏检多检写入excel，===模板excel文件--得到===xml-r-result.excel(excel增加首行冻结）
+
+lepu-pdf 得到===lepu-pdf-text.dict===lepu-pdf--detail.dict（基本心率、：、时间空格、心房扑动-颤动、I/II）
+yocaly-pdf 转换为html,得到===yocaly-pdf-text.dict,===yocaly-pdf-detail.dict
+lepu-yocaly-pdf 结果写入excel，模板===excel得到===pdf-result.excel
+
+
+清理文件
+lepu-pdf 剪切到sftp当前日期下
+
+yocaly转html路径不对
+
+
